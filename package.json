@@ -1,0 +1,32 @@
+{
+  "name": "spon-concat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fromIRIS/spon-concat.git"
+  },
+  "keywords": [
+    "spon"
+  ],
+  "maintainers": [
+    {
+      "name": "nanyang",
+      "email": "417611525@qq.com"
+    }
+  ],
+  "author": "南洋",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fromIRIS/spon-concat/issues"
+  },
+  "homepage": "https://github.com/fromIRIS/spon-concat#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "path": "^0.12.7"
+  }
+}
